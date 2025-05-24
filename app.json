@@ -36,6 +36,11 @@
         "value": "",
         "required": true
       },
+        "YT_API_KEY": {
+        "description": "The api id of user whom you would like to add as OWNE.",
+        "value": "",
+        "required": true
+      },
       "STRING_SESSION": {
         "description": "A Pyrogram v2 String Session from KING_STRING_SESSION_BOT on Telegram.",
         "value": "",
